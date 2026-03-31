@@ -5,6 +5,7 @@ const showToas = () => {
     //test 3
     Toast.show();
     Toast.show();
+    Toast.show();
 };
 
 export default function RootLayout() {
